@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "gatsby": "5.1",
+    "gatsby-cli": "^5.13.3",
+    "pnpm": "^9.12.3",
+    "sass": "^1.80.5",
+    "sass-loader": "^16.0.2"
+  }
+}
